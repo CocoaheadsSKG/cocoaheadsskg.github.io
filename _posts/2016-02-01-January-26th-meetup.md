@@ -19,3 +19,5 @@ Happy New Year everone!
 There is a disturbance in the Force coming from a forgotten region of the Galaxy; the small city of Thessaloniki. After the long and mysterious disappearance of all the iOS and MacOS developers, a small delegation of a newly founded group, known as The New Rebellion, will be dispatched to investigate the matter and hopefully restore the injustice.
 
 Your presence is considered of outmost importance.
+
+<a href="http://www.meetup.com/CocoaHeadsSKG/events/227989805/" data-event="227989805" class="mu-rsvp-btn">RSVP</a>
