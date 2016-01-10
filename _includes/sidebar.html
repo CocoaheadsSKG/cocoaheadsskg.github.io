@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+          <img src="{{ site.baseurl }}public/assets/images/logo_big.png" alt="Cocoaheads Thessaloniki">
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -25,10 +25,10 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <div class="social-links">
+        <a href="http://www.meetup.com/urbansquallsailingclub/events/50769292" data-event="50769292" class="mu-rsvp-btn">RSVP</a><br>
+        <a href="https://twitter.com/cocoaheadsskg" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @cocoaheadsskg</a>
+      </div>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
