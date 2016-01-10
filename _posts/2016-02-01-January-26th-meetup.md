@@ -14,7 +14,7 @@ January 26th 2016
 * **Testing on iOS (Breaking the taboos)** by [@attheodo](https://twitter.com/attheodo)
 
 #### Description
-Happy New Year everone!
+Happy New Year everyone!
 
 There is a disturbance in the Force coming from a forgotten region of the Galaxy; the small city of Thessaloniki. After the long and mysterious disappearance of all the iOS and MacOS developers, a small delegation of a newly founded group, known as The New Rebellion, will be dispatched to investigate the matter and hopefully restore the injustice.
 
