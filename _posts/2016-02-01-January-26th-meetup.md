@@ -10,7 +10,7 @@ January 26th 2016, 19:00
 [CoHo - The Coworking space](https://www.facebook.com/coho.gr)
 
 #### What
-* **Introduction to Swift** by [@tsif](https://twitter.com/tsif)
+* **Introduction to Swift** by [@tsif](https://twitter.com/sprimp)
 * **Testing on iOS (Breaking the taboos)** by [@attheodo](https://twitter.com/attheodo)
 
 #### Description
