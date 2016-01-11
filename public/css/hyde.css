@@ -87,7 +87,7 @@ html {
     margin: 0 0 1rem;
 }
 
-@media (max-width: 42em) {
+@media (max-width: 48em) {
  .logo {
      margin: 0 auto;
  }
