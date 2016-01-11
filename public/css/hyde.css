@@ -83,6 +83,16 @@ html {
   font-size: 3.25rem;
 }
 
+.logo {
+    margin: 0 0 1rem;
+}
+
+@media (min-width: 38em) {
+  .logo {
+      margin: 0 auto;
+  }
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;

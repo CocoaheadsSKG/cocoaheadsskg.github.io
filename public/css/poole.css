@@ -56,6 +56,10 @@ html {
   html {
     font-size: 20px;
   }
+
+  .logo {
+      margin: 0 auto;
+  }
 }
 
 body {
