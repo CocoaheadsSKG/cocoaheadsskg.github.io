@@ -99,7 +99,7 @@ html {
 }
 
 .speakerdeck {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.5rem
 }
 .sidebar-nav .social-links {
     margin-top: 1rem;
@@ -115,6 +115,18 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+
+/* Video & Slides player */
+/*#player_video, #slideshow_player {
+    max-width: 280px;
+    max-height: 380px;
+    padding: 4px;
+}
+
+#slideshow_player img {
+    max-width: 280px;
+    max-height: 380px;
+}*/
 
 /* Sticky sidebar
  *
