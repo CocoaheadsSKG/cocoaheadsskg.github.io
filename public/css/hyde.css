@@ -231,6 +231,9 @@ a.sidebar-nav-item:focus {
 #slideshow_player {
     margin-bottom: 10px;
 }
+.pagination-item {
+    padding: 0.4rem;
+}
 @media (min-width: 48em) {
   .content {
     max-width: 48rem;
