@@ -214,3 +214,31 @@ a.sidebar-nav-item:focus {
 .theme-cocoaheads .related-posts li a:hover {
   color: #439BF7;
 }
+.clearfix:before,
+.clearfix:after {
+  display:table;
+  content:" ";
+}
+.clearfix:after {
+  clear:both;
+}
+#slideshow_player,
+#video_player {
+  width: 460px;
+  height: 407px;
+  float: left;
+}
+#slideshow_player {
+    margin-bottom: 10px;
+}
+@media (min-width: 48em) {
+  .content {
+    max-width: 48rem;
+  }
+}
+@media (min-width: 64em) {
+  .content {
+    margin-left: 19rem;
+    margin-right: 0;
+  }
+}
