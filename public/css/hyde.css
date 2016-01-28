@@ -98,9 +98,6 @@ html {
   margin-bottom: 1rem;
 }
 
-.speakerdeck {
-    margin-bottom: 0.5rem
-}
 .sidebar-nav .social-links {
     margin-top: 1rem;
 }
@@ -234,9 +231,16 @@ a.sidebar-nav-item:focus {
 .pagination-item {
     padding: 0.4rem;
 }
+.speakerdeck {
+    margin: 0 auto 0.5rem auto;
+}
 @media (min-width: 48em) {
   .content {
     max-width: 48rem;
+  }
+  .speakerdeck {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 @media (min-width: 64em) {
