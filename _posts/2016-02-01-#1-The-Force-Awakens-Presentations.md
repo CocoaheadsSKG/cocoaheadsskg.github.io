@@ -3,42 +3,45 @@ layout: post
 title:  Meetup 1 - "The Force Awakens" - Presentations
 ---
 <script type="text/javascript">
+  var presentations = [
+    {
+      videoElement: '#video-1', videoSize: '460x407',
+      slidesElement: '#slides-1', slidesSize: '460x407',
+      jsonFile: '{{{ site.baseurl }}public/assets/presentations/Meetup-1-Presentation-1.json',
+      delay: 0
+    },
+    {
+      videoElement: '#video-2', videoSize: '460x407',
+      slidesElement: '#slides-2', slidesSize: '460x407',
+      jsonFile: '{{{ site.baseurl }}public/assets/presentations/Meetup-1-Presentation-2.json',
+      delay: 2000
+    },
+  ];
 
-  var presentation_1;
-  var presentation_2;
+  var presenters = [{}, {}];
 
-  var presenter_1;
-  var presenter_2;
-
-  function initPresentation1(pres) {
-    presentation_1 = pres;
-    presenter_1 = new Presentz("#video-1", "460x407", "#slides-1", "460x407");
-    presenter_1.init(presentation_1);
-    presenter_1.changeChapter(0, 0, true, function(err) {
+  function initPresentation(index, data) {
+    var presentation = presentations[index];
+    var presenter = presenters[index];
+    presenter = new Presentz(presentation.videoElement, presentation.videoSize, presentation.slidesElement, presentation.slidesSize);
+    presenter.init(data);
+    presenter.changeChapter(0, 0, true, function(err) {
       if (err) {
         alert(err);
       }
     });
   }
 
-function initPresentation2(pres) {
-    presentation_2 = pres;
-    presenter_2 = new Presentz("#video-2", "460x407", "#slides-2", "460x407");
-    presenter_2.init(presentation_2);
-    presenter_2.changeChapter(0,0, true, function(err){
-        if (err) {
-            alert(err);
-        }
-        })
-}
+  function fetchJson(index) {
+    var presentation = presentations[index];
+    jQuery.get(presentation.jsonFile, function(data) {
+      setTimeout(function() { initPresentation(index, data); }, presentation.delay);
+    });
+  }
 
   jQuery().ready(function() {
-    jQuery.get("{{{ site.baseurl }}public/assets/presentations/Meetup-1-Presentation-1.json", function(json) {
-      initPresentation1(json);
-    });
-    jQuery.get("{{{ site.baseurl }}public/assets/presentations/Meetup-1-Presentation-2.json", function(json) {
-      initPresentation2(json);
-    });
+    for (var i = 0; i < presentations.length; i++)
+      fetchJson(i);
   });
 </script>
 
