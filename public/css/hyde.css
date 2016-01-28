@@ -219,7 +219,7 @@ a.sidebar-nav-item:focus {
   padding-top: 25px;
   height: 0;
 }
-#video-1, #video-2 iframe {
+#video-1 iframe, #video-2 iframe {
   position: absolute;
   top: 0;
   left: 0;
