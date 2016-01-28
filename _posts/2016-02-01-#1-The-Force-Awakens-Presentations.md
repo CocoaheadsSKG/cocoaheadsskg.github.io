@@ -47,13 +47,13 @@ title:  Meetup 1 - "The Force Awakens" - Presentations
 
 We want to thank every sone of you for joining us in our first meetup; it was a blast! You can find the presented material below.
 
-#### Introduction to Swift
+#### Introduction to Swift by [@tsif](https://twitter.com/sprimp)
 <div class="clearfix">
   <div id="slides-1"></div>
   <div id="video-1"></div>
 </div>
 
-#### Testing iOS Applications
+#### Testing iOS Applications by [@attheodo](https://twitter.com/attheodo)
 <div class="clearfix">
   <div id="slides-2"></div>
   <div id="video-2"></div>
