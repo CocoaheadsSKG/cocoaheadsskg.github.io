@@ -37,7 +37,7 @@ function initPresentation2(pres) {
       initPresentation1(json);
     });
     jQuery.get("{{{ site.baseurl }}public/assets/presentations/Meetup-1-Presentation-2.json", function(json) {
-      initPresentation2(json);
+      setTimeout(function() {initPresentation2(json); }, 2000);
     });
   });
 </script>
