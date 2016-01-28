@@ -25,7 +25,7 @@ title:  Meetup 1 - "The Force Awakens" - Presentations
     var presenter = presenters[index];
     presenter = new Presentz(presentation.videoElement, presentation.videoSize, presentation.slidesElement, presentation.slidesSize);
     presenter.init(data);
-    presenter.changeChapter(0, 0, true, function(err) {
+    presenter.changeChapter(0, 0, false, function(err) {
       if (err) {
         alert(err);
       }
