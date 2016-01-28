@@ -7,13 +7,13 @@ title:  Meetup 1 - "The Force Awakens" - Presentations
     {
       videoElement: '#video-1', videoSize: '460x407',
       slidesElement: '#slides-1', slidesSize: '460x407',
-      jsonFile: '{{{ site.baseurl }}public/assets/presentations/Meetup-1-Presentation-1.json',
+      jsonFile: '/public/assets/presentations/Meetup-1-Presentation-1.json',
       delay: 0
     },
     {
       videoElement: '#video-2', videoSize: '460x407',
       slidesElement: '#slides-2', slidesSize: '460x407',
-      jsonFile: '{{{ site.baseurl }}public/assets/presentations/Meetup-1-Presentation-2.json',
+      jsonFile: '/public/assets/presentations/Meetup-1-Presentation-2.json',
       delay: 2000
     },
   ];
