@@ -4,7 +4,7 @@ title:  Meetup 2 - "The Quickening"
 ---
 
 #### When
-Tuesday, February 22th 2016, 19:00
+Tuesday, February 23th 2016, 19:00
 
 #### Where
 [CoHo - The Coworking space](https://www.facebook.com/coho.gr)
