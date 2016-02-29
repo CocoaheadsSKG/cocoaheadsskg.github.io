@@ -45,7 +45,9 @@ title:  Meetup 1 - "The Force Awakens" - Presentations
   });
 </script>
 
-We want to thank every sone of you for joining us in our first meetup; it was a blast! You can find the presented material below.
+We want to thank every sone of you for joining us in our first meetup; it was a blast! You can find the presented material <a href="{{ page.url }}">here</a>.
+
+<!--more-->
 
 #### Introduction to Swift by [@tsif](https://twitter.com/sprimp)
 <div class="clearfix">
