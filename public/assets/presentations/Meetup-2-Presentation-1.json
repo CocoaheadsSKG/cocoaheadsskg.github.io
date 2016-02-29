@@ -1,75 +1,75 @@
 {
     "title": "RxSwift",
     "chapters": [{
-        "duration": 29,
+        "duration": 23,
         "video": {
-            "url": "https://www.youtube.com/watch?v=xtRjnkEgprQ"
+            "url": "https://www.youtube.com/watch?v=MDChi9HjMkw"
         },
         "slides": [{
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#2",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#2",
             "time": 34
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#3",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#3",
             "time": 48
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#4",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#4",
             "time": 85
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#5",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#5",
             "time": 106
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#6",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#6",
             "time": 120
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#7",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#7",
             "time": 168
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#8",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#8",
             "time": 188
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#9",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#9",
             "time": 241
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#10",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#10",
             "time": 336
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#11",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#11",
             "time": 406
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#12",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#12",
             "time": 450
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#13",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#13",
             "time": 487
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#14",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#14",
             "time": 495
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#15",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#15",
             "time": 497
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#16",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#16",
             "time": 597
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#17",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#17",
             "time": 747
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#18",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#18",
             "time": 818
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#19",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#19",
             "time": 916
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#20",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#20",
             "time": 995
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#21",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#21",
             "time": 1088
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#22",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#22",
             "time": 1211
         }, {
-            "url": "https://speakerdeck.com/50021f75cf1db900020005e7#23",
+            "url": "https://speakerdeck.com/2041a86a932e4386948427b603d4d23d#23",
             "time": 1588
         }]
     }]
