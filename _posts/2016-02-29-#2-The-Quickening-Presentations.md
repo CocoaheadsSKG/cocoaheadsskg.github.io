@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  Meetup 1 - "The Force Awakens" - Presentations
+title:  Meetup 2 - "The Quickening" - Presentations
 ---
 <script type="text/javascript">
   var presentations = [
     {
-      videoElement: '#video-1', videoSize: '460x407',
-      slidesElement: '#slides-1', slidesSize: '460x407',
-      jsonFile: '/public/assets/presentations/Meetup-1-Presentation-1.json',
+      videoElement: '#video-3', videoSize: '460x407',
+      slidesElement: '#slides-3', slidesSize: '460x407',
+      jsonFile: '/public/assets/presentations/Meetup-2-Presentation-1.json',
       delay: 0
     },
     {
-      videoElement: '#video-2', videoSize: '460x407',
-      slidesElement: '#slides-2', slidesSize: '460x407',
-      jsonFile: '/public/assets/presentations/Meetup-1-Presentation-2.json',
+      videoElement: '#video-4', videoSize: '460x407',
+      slidesElement: '#slides-4', slidesSize: '460x407',
+      jsonFile: '/public/assets/presentations/Meetup-2-Presentation-2.json',
       delay: 2000
     },
   ];
@@ -45,16 +45,16 @@ title:  Meetup 1 - "The Force Awakens" - Presentations
   });
 </script>
 
-We want to thank every sone of you for joining us in our first meetup; it was a blast! You can find the presented material below.
+Hey CocoaHeads! Thank you everyone for joining us at our second meetup; codename *The Quickening*. Please find the presented material below.
 
-#### Introduction to Swift by [@tsif](https://twitter.com/sprimp)
+#### Introduction to RxSwift by [@gkravas](https://twitter.com/gkravas)
 <div class="clearfix">
-  <div class="slides" id="slides-1"></div>
-  <div class="video" id="video-1"></div>
+  <div class="slides" id="slides-3"></div>
+  <div class="video" id="video-3"></div>
 </div>
 
-#### Testing iOS Applications by [@attheodo](https://twitter.com/attheodo)
+#### Supporting 3D Touch on the iPhone by [@tsif](https://twitter.com/sprimp)
 <div class="clearfix">
-  <div class="slides" id="slides-2"></div>
-  <div class="video" id="video-2"></div>
+  <div class="slides" id="slides-4"></div>
+  <div class="video" id="video-4"></div>
 </div>
