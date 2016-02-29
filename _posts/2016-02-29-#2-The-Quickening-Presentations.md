@@ -3,45 +3,23 @@ layout: post
 title:  Meetup 2 - "The Quickening" - Presentations
 ---
 <script type="text/javascript">
-  var presentations = [
-    {
-      videoElement: '#video-3', videoSize: '460x407',
-      slidesElement: '#slides-3', slidesSize: '460x407',
-      jsonFile: '/public/assets/presentations/Meetup-2-Presentation-1.json',
-      delay: 0
-    },
-    {
-      videoElement: '#video-4', videoSize: '460x407',
-      slidesElement: '#slides-4', slidesSize: '460x407',
-      jsonFile: '/public/assets/presentations/Meetup-2-Presentation-2.json',
-      delay: 2000
-    },
-  ];
-
-  var presenters = [{}, {}];
-
-  function initPresentation(index, data) {
-    var presentation = presentations[index];
-    var presenter = presenters[index];
-    presenter = new Presentz(presentation.videoElement, presentation.videoSize, presentation.slidesElement, presentation.slidesSize);
-    presenter.init(data);
-    presenter.changeChapter(0, 0, false, function(err) {
-      if (err) {
-        alert(err);
-      }
-    });
-  }
-
-  function fetchJson(index) {
-    var presentation = presentations[index];
-    jQuery.get(presentation.jsonFile, function(data) {
-      setTimeout(function() { initPresentation(index, data); }, presentation.delay);
-    });
-  }
-
   jQuery().ready(function() {
-    for (var i = 0; i < presentations.length; i++)
-      fetchJson(i);
+    var presentations = [
+      {
+        videoElement: '#video-3', videoSize: '460x407',
+        slidesElement: '#slides-3', slidesSize: '460x407',
+        jsonFile: '/public/assets/presentations/Meetup-2-Presentation-1.json',
+        delay: 300
+      },
+      {
+        videoElement: '#video-4', videoSize: '460x407',
+        slidesElement: '#slides-4', slidesSize: '460x407',
+        jsonFile: '/public/assets/presentations/Meetup-2-Presentation-2.json',
+        delay: 2000
+      },
+    ];
+    var presentationsApp = new PresentationsApp();
+    presentationsApp.init(presentations);
   });
 </script>
 
