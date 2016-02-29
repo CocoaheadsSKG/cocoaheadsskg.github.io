@@ -207,19 +207,18 @@ a.sidebar-nav-item:focus {
 .clearfix:after {
   clear:both;
 }
-#video-1, #video-2,
-#slides-1, #slides-2 {
+.video, .slides {
   width: 100%;
   height: auto;
   float: left;
 }
-#video-1, #video-2 {
+.video {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   padding-top: 25px;
   height: 0;
 }
-#video-1 iframe, #video-2 iframe {
+.video iframe {
   position: absolute;
   top: 0;
   left: 0;
@@ -240,14 +239,13 @@ a.sidebar-nav-item:focus {
     margin-left: 0;
     margin-right: 0;
   }
-  #video-1, #video-2,
-  #slides-1, #slides-2 {
+ .video, .slides {
     width: 50%;
   }
-  #slides-1, #slides-2 {
+  .slides {
     margin-bottom: 10px;
   }
-  #video-1, #video-2 {
+  .video {
     padding-bottom: 41.5%;
   }
 }
