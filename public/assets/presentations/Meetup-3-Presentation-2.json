@@ -1,0 +1,121 @@
+{
+    "title": "Towards Continuous Delivery with Fastlane",
+    "chapters": [{
+        "duration": 18,
+        "video": {
+            "url": "https://www.youtube.com/watch?v=MzCsBxlwQj4"
+        },
+        "slides": [{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#1",
+            "time": 0
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#2",
+            "time": 75
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#3",
+            "time": 160
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#4",
+            "time": 180
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#5",
+            "time": 200
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#6",
+            "time": 210
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#7",
+            "time": 226
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#8",
+            "time": 250
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#9",
+            "time": 270
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#10",
+            "time": 288
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#11",
+            "time": 294
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#12",
+            "time": 317
+        },
+        {
+            "url": "https://speakerdeck.com/4c7f5b24e6274d5ca863eab477a2b35b#13",
+            "time": 277
+        },
+        {
+            "url": "https://speakerdeck.com/4c7f5b24e6274d5ca863eab477a2b35b#14",
+            "time": 290
+        },
+        {
+            "url": "https://speakerdeck.com/4c7f5b24e6274d5ca863eab477a2b35b#15",
+            "time": 318
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#16",
+            "time": 372
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#17",
+            "time": 378
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#18",
+            "time": 420
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#19",
+            "time": 476
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#20",
+            "time": 517
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#21",
+            "time": 567
+        },{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#22",
+            "time": 607
+        },{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#21",
+            "time": 567
+        },{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#22",
+            "time":614
+        },{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#23",
+            "time": 737
+        },{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#24",
+            "time": 780
+        },{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#25",
+            "time": 856
+        },{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#26",
+            "time": 990
+        },{
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#27",
+            "time": 1053
+        },
+        {
+            "url": "https://speakerdeck.com/0d65d74d8cde49878d7ade8b1eda9eb4#28",
+            "time": 1092
+        }]
+    }]
+}
