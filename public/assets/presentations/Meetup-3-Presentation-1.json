@@ -1,0 +1,55 @@
+{
+    "title": "iOS link Handling",
+    "chapters": [{
+        "duration": 12,
+        "video": {
+            "url": "https://www.youtube.com/watch?v=OVjf0u4o-DY"
+        },
+        "slides": [{
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#1",
+            "time": 0
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#2",
+            "time": 66
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#3",
+            "time": 79
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#4",
+            "time": 105
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#5",
+            "time": 146
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#6",
+            "time": 215
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#7",
+            "time": 243
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#8",
+            "time": 280
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#9",
+            "time": 334
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#10",
+            "time": 420
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#11",
+            "time": 430
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#12",
+            "time": 482
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#13",
+            "time": 490
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#14",
+            "time": 600
+        }, {
+            "url": "https://speakerdeck.com/4e456e61f13541e69ceaf39e9e5036ee#15",
+            "time": 640
+        }]
+    }]
+}
