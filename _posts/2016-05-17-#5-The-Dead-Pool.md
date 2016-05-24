@@ -12,7 +12,7 @@ Tuesday, May 24th 2016, 19:00
 #### What
 
 * **Intro to tvOS** by [@ipavleas](http://twitter.com/ipavleas)
-* **<strike>Making a Today Widget</strike>** <strike>by [@tsif](http://twitter.com/sprimp)</strike>
+* **<strike>Making a Today Widget</strike>** <strike>by tsif</strike>
  Actually, he won't be able to make it 😔
 
 #### Description
