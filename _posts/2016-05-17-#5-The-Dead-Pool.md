@@ -12,7 +12,7 @@ Tuesday, May 24th 2016, 19:00
 #### What
 
 * **Intro to tvOS** by [@ipavleas](http://twitter.com/ipavleas)
-* **Making a Today Widget** by [@tsif](http://twitter.com/sprimp)
+* <strikethrough>**Making a Today Widget** by [@tsif](http://twitter.com/sprimp)</strikethrough> Actually, he won't be able to make it 😔
 
 #### Description
 The city's tech scene is dancing to the [DEVit](http://devitconf.org) rhythm. But that doesn't mean we won't have CocoaHeads SKG meetup
