@@ -4,7 +4,7 @@ title:  Meetup 6 - "Judgement Day"
 ---
 
 #### When
-Monday, June 13th 2016, **19:00**
+Monday, June 13th 2016, **19:30**
 
 #### Where
 [CoHo - The Coworking space](https://www.facebook.com/coho.gr)
