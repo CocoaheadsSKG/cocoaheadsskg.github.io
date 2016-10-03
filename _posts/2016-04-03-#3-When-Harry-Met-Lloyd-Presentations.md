@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Meetup 1 - "The Force Awakens" - Presentations
+title:  Meetup 3 - "When Harry Met Lloyd" - Presentations
 ---
 <script type="text/javascript">
   jQuery().ready(function() {
@@ -8,13 +8,13 @@ title:  Meetup 1 - "The Force Awakens" - Presentations
       {
         videoElement: '#video-1', videoSize: '460x407',
         slidesElement: '#slides-1', slidesSize: '460x407',
-        jsonFile: '/public/assets/presentations/Meetup-1-Presentation-1.json',
+        jsonFile: '/public/assets/presentations/Meetup-3-Presentation-1.json',
         delay: 0
       },
       {
         videoElement: '#video-2', videoSize: '460x407',
         slidesElement: '#slides-2', slidesSize: '460x407',
-        jsonFile: '/public/assets/presentations/Meetup-1-Presentation-2.json',
+        jsonFile: '/public/assets/presentations/Meetup-3-Presentation-2.json',
         delay: 2000
       },
     ];
@@ -23,17 +23,17 @@ title:  Meetup 1 - "The Force Awakens" - Presentations
   });
 </script>
 
-We want to thank every sone of you for joining us in our first meetup; it was a blast! You can find the presented material <a href="{{ page.url }}">here</a>.
+Thank you all for coming to our latest meetup, codename *When Harry Met Lloyd*. Nice catching up with ya all! Please find the presented material <a href="{{ page.url }}">here</a>.
 
 <!--more-->
 
-#### Introduction to Swift by [@tsif](https://twitter.com/sprimp)
+#### iOS Link Handling by [@tsif](https://twitter.com/sprimp)
 <div class="clearfix">
   <div id="slides-1"></div>
   <div id="video-1"></div>
 </div>
 
-#### Testing iOS Applications by [@attheodo](https://twitter.com/attheodo)
+#### Towards Continuous Delivery with Fastlane [@attheodo](https://twitter.com/attheodo)
 <div class="clearfix">
   <div id="slides-2"></div>
   <div id="video-2"></div>
