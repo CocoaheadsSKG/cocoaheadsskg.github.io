@@ -1,1 +1,121 @@
 
+
+{
+    "title": "iOS App Architecure ",
+    "chapters": [{
+        "duration": 42,
+        "video": {
+            "url": "https://www.youtube.com/watch?v=c8wYDbKRIOs"
+        },
+        "slides": [
+        {
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#1",
+            "time": 0
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#2",
+            "time": 56
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#3",
+            "time": 82
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#4",
+            "time": 101
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#5",
+            "time": 150
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#6",
+            "time": 270
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#7",
+            "time": 300
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#8",
+            "time": 320
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#9",
+            "time": 420
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#10",
+            "time": 560
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#11",
+            "time": 560
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#12",
+            "time": 600
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#13",
+            "time": 720
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#14",
+            "time": 760
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#15",
+            "time": 840
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#16",
+            "time": 900
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#17",
+            "time": 905
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#18",
+            "time": 980
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#19",
+            "time": 1100
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#20",
+            "time": 1350
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#21",
+            "time": 1400
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#22",
+            "time": 1500
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#23",
+            "time": 1700
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#24",
+            "time": 1920
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#25",
+            "time": 2040
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#26",
+            "time": 2100
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#27",
+            "time": 2120
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#28",
+            "time": 2180
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#29",
+            "time": 2220
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#30",
+            "time": 2250
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#31",
+            "time": 2300
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#32",
+            "time": 2320
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#33",
+            "time": 2380
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#34",
+            "time": 2390
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#35",
+            "time": 2395
+        },{
+            "url": "https://speakerdeck.com/3bf5e482330344d48defdd2532fc6777#36",
+            "time": 2400
+        }]
+    }]
+}
