@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meetup 10 - "Sleight Of Hand
+title: Meetup 10 - "Sleight Of Hand"
 ---
 
 #### When
