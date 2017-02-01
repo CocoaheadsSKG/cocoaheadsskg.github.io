@@ -257,3 +257,6 @@ a.sidebar-nav-item:focus {
     margin-right: 0;
   }
 }
+.post .mu-widget {
+  vertical-align: middle;
+}
