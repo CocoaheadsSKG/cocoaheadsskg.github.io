@@ -11,7 +11,7 @@ Tuesday, February 28th 2017, **19:00**
 
 #### What
 
-* **Introduction to GraphQL for iOS** by [tsif](https://twitter.com/sprimp)
+* **Introduction to GraphQL for iOS** by [attheodo](https://twitter.com/attheodo)
 
 #### Description
 Hey CocoHeads,
